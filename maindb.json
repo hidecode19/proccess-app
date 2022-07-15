@@ -1,0 +1,1327 @@
+{
+  "admin": {
+    "username": "efzyn",
+    "password": "cee8f6cbcd9293f014a1ff5cbffeba14",
+    "loginToken": "708c1ff217e886936b60ce0ee79230fa",
+    "logs": [
+      {
+        "time": "2022-07-15T15:00:52.347Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-07-15T15:14:53.673Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 Connected"
+      },
+      {
+        "time": "2022-07-15T15:15:14.873Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:15:28.913Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:15:30.171Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Call Log Updated - 625 New Calls"
+      },
+      {
+        "time": "2022-07-15T15:15:30.387Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:15:30.884Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2022-07-15T15:15:48.981Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:15:54.386Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:16:14.688Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:16:15.541Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:16:19.374Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:16:22.943Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Contacts Updated - 946 New Contacts Added"
+      },
+      {
+        "time": "2022-07-15T15:16:22.950Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:16:23.171Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2022-07-15T15:16:24.291Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:16:24.489Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2022-07-15T15:17:12.400Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:17:12.524Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Permissions Updated"
+      },
+      {
+        "time": "2022-07-15T15:17:13.459Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:17:13.503Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Permissions Updated"
+      },
+      {
+        "time": "2022-07-15T15:17:17.476Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:17:17.767Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:17:21.927Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:17:22.158Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:17:25.607Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:17:25.653Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:17:43.708Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:17:48.241Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-07-15T15:17:48.247Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:17:49.165Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-07-15T15:18:00.219Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:00.559Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 SENT SMS"
+      },
+      {
+        "time": "2022-07-15T15:18:00.678Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 Disconnected"
+      },
+      {
+        "time": "2022-07-15T15:18:02.962Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 Connected"
+      },
+      {
+        "time": "2022-07-15T15:18:02.964Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 Running Queued Commands"
+      },
+      {
+        "time": "2022-07-15T15:18:02.967Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:03.297Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 SENT SMS"
+      },
+      {
+        "time": "2022-07-15T15:18:24.919Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:26.230Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 WiFi Updated - 2 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2022-07-15T15:18:26.927Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:27.230Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 WiFi Updated - 0 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2022-07-15T15:18:28.041Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:28.175Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 WiFi Updated - 0 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2022-07-15T15:18:34.988Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:36.695Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:38.471Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:41.962Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:43.141Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:18:56.927Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Apps Updated"
+      },
+      {
+        "time": "2022-07-15T15:18:57.187Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T15:19:17.754Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 Disconnected"
+      },
+      {
+        "time": "2022-07-15T15:20:22.658Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:21:22.659Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:21:51.586Z",
+        "type": "INFO",
+        "message": "2edc01be810b1d58 Connected"
+      },
+      {
+        "time": "2022-07-15T15:22:22.660Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:22:36.533Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:22:36.643Z",
+        "type": "SUCCESS",
+        "message": "2edc01be810b1d58 GPS Updated"
+      },
+      {
+        "time": "2022-07-15T15:22:53.499Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:23:12.906Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:23:15.935Z",
+        "type": "INFO",
+        "message": "2edc01be810b1d58 Disconnected"
+      },
+      {
+        "time": "2022-07-15T15:23:22.660Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:24:11.279Z",
+        "type": "INFO",
+        "message": "2edc01be810b1d58 Connected"
+      },
+      {
+        "time": "2022-07-15T15:24:22.661Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:25:22.661Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:26:22.661Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:26:43.523Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:26:44.879Z",
+        "type": "SUCCESS",
+        "message": "2edc01be810b1d58 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-07-15T15:26:47.483Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:26:48.899Z",
+        "type": "SUCCESS",
+        "message": "2edc01be810b1d58 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-07-15T15:26:52.998Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:26:53.098Z",
+        "type": "SUCCESS",
+        "message": "2edc01be810b1d58 WiFi Updated - 2 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2022-07-15T15:27:00.788Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:27:05.717Z",
+        "type": "SUCCESS",
+        "message": "2edc01be810b1d58 Apps Updated"
+      },
+      {
+        "time": "2022-07-15T15:27:05.771Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:27:06.004Z",
+        "type": "SUCCESS",
+        "message": "2edc01be810b1d58 Apps Updated"
+      },
+      {
+        "time": "2022-07-15T15:27:15.621Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:27:15.813Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:27:22.662Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:27:23.471Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:27:23.564Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:27:29.799Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:27:33.371Z",
+        "type": "INFO",
+        "message": "Recieving File From2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:27:33.381Z",
+        "type": "SUCCESS",
+        "message": "File From2edc01be810b1d58 Saved"
+      },
+      {
+        "time": "2022-07-15T15:28:21.070Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:28:22.663Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:28:37.420Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:28:39.329Z",
+        "type": "SUCCESS",
+        "message": "2edc01be810b1d58 Contacts Updated - 635 New Contacts Added"
+      },
+      {
+        "time": "2022-07-15T15:28:59.057Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:28:59.293Z",
+        "type": "SUCCESS",
+        "message": "2edc01be810b1d58 Call Log Updated - 34 New Calls"
+      },
+      {
+        "time": "2022-07-15T15:29:22.664Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:29:34.138Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:29:34.297Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:29:39.277Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:29:39.604Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:29:41.553Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:29:41.807Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:29:44.067Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:29:44.114Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:29:47.521Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:29:47.562Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:29:50.751Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:29:50.859Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:29:54.299Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:29:54.342Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:29:56.141Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:29:56.228Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:29:57.535Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:29:57.679Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:30:03.003Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:30:03.062Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:30:05.935Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:30:05.997Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:30:11.251Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:30:11.287Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:30:14.057Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:30:14.178Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T15:30:17.112Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:30:17.402Z",
+        "type": "INFO",
+        "message": "Recieving File From2edc01be810b1d58"
+      },
+      {
+        "time": "2022-07-15T15:30:17.418Z",
+        "type": "SUCCESS",
+        "message": "File From2edc01be810b1d58 Saved"
+      },
+      {
+        "time": "2022-07-15T15:30:22.665Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:30:27.587Z",
+        "type": "INFO",
+        "message": "2edc01be810b1d58 Disconnected"
+      },
+      {
+        "time": "2022-07-15T15:31:22.665Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:32:22.665Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T15:33:22.666Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T19:08:28.347Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 Connected"
+      },
+      {
+        "time": "2022-07-15T19:08:28.349Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 Running Queued Commands"
+      },
+      {
+        "time": "2022-07-15T19:08:28.350Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:08:28.357Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:08:31.850Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2022-07-15T19:08:59.686Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:08:59.857Z",
+        "type": "SUCCESS",
+        "message": "723b1730cc989b70 Permissions Updated"
+      },
+      {
+        "time": "2022-07-15T19:09:08.512Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:09:08.810Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:09:11.936Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:09:12.377Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:09:14.898Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:09:15.134Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:09:20.734Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:09:21.248Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:09:21.260Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:09:28.366Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T19:09:28.368Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:09:56.295Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:09:59.318Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:09:59.334Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:10:28.366Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T19:10:28.369Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:10:37.389Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:10:37.605Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:10:42.145Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:10:42.532Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:10:44.396Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:10:45.370Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:10:48.333Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:10:48.455Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:04.834Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:05.015Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:07.385Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:07.882Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:11.247Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:11.639Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:12.739Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:12.929Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:14.393Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:14.577Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:16.015Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:16.521Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:20.027Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:20.256Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:25.043Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:25.325Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:26.912Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:27.251Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:28.366Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T19:11:28.369Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:29.507Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:29.870Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:11:31.975Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:44.484Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:44.518Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:11:44.521Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:51.105Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:11:51.122Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:11:59.127Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:12:22.602Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 Connected"
+      },
+      {
+        "time": "2022-07-15T19:12:22.603Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 Running Queued Commands"
+      },
+      {
+        "time": "2022-07-15T19:12:22.604Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:12:23.194Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:12:23.210Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:13:04.430Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:13:05.776Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:13:05.794Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:13:22.611Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T19:13:22.614Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:13:41.274Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:13:42.085Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:13:42.116Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:13:57.100Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:13:57.440Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:01.189Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:01.494Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:03.622Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:04.206Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:04.994Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:05.125Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:06.687Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:06.929Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:17.212Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:17.274Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:21.303Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:21.424Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:22.611Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T19:14:22.614Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:23.853Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:23.973Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:25.245Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:25.377Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:38.705Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:39.123Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:41.782Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:42.242Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:14:58.208Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:14:58.248Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:15:00.976Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:01.202Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:15:04.061Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:04.765Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:15:08.127Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:08.453Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-07-15T19:15:12.314Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:12.479Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:12.493Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:15:21.396Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:21.631Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:21.644Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:15:22.611Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T19:15:22.615Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:33.305Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:33.580Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:33.590Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:15:44.385Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:45.052Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:45.066Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:15:55.516Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:55.627Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:15:55.641Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:16:13.771Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:16:13.862Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:16:13.873Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:16:21.229Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:16:21.328Z",
+        "type": "INFO",
+        "message": "Recieving File From723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:16:21.340Z",
+        "type": "SUCCESS",
+        "message": "File From723b1730cc989b70 Saved"
+      },
+      {
+        "time": "2022-07-15T19:16:22.611Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T19:16:22.616Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      },
+      {
+        "time": "2022-07-15T19:17:22.612Z",
+        "type": "INFO",
+        "message": "723b1730cc989b70 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-07-15T19:17:22.616Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 723b1730cc989b70"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "723b1730cc989b70",
+      "firstSeen": "2022-07-15T15:14:53.660Z",
+      "lastSeen": "2022-07-15T19:12:22.601Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "192.168.1.2",
+        "clientGeo": {},
+        "device": {
+          "model": "RMX1911",
+          "manufacture": "realme",
+          "version": "10"
+        }
+      }
+    },
+    {
+      "clientID": "2edc01be810b1d58",
+      "firstSeen": "2022-07-15T15:21:51.570Z",
+      "lastSeen": "2022-07-15T15:30:27.588Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.12",
+        "clientGeo": {},
+        "device": {
+          "model": "vivo 1811",
+          "manufacture": "vivo",
+          "version": "8.1.0"
+        }
+      }
+    }
+  ]
+}
